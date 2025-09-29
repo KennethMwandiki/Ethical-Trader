@@ -1,0 +1,50 @@
+/target/
+**/target/
+*.log
+*.tmp
+*.env
+/.idea/
+/.vscode/
+/.DS_Store
+/*.iml
+
+# Docker
+docker-compose.override.yml
+
+# Kubernetes
+.kube/
+
+# OS
+Thumbs.db
+
+# Java, Maven
+*.class
+*.jar
+*.war
+*.ear
+.settings/
+.settings/
+
+# Gradle
+/.gradle/
+build/
+
+# IntelliJ
+/out/
+/.idea/
+*.iml
+
+# VS Code
+/.vscode/
+
+# Logs
+logs/
+*.log
+
+# Docker image artifacts
+docker-image-*.tar
+
+# Temporary files
+*.swp
+*.swo
+~$*

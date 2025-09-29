@@ -1,0 +1,8 @@
+target
+**/target
+*.log
+*.tmp
+.mvn
+.git
+.gitignore
+node_modules
